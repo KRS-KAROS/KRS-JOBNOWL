@@ -1,6 +1,9 @@
 # KRS-JOBNOWL
 ![FiveM® by Cfx re 12_05_2023 15_15_35](https://github.com/KRS-KAROS/KRS-JOBNOWL/assets/131356071/0215d4fe-7486-45ba-92d7-52fe758c08bf)
 
+Italian version
+English version
+
 * ox_inventory
 * ox_target
 * ox_lib
